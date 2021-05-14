@@ -1,0 +1,282 @@
+{
+    "0": {
+        "name": "Bebida Láctea UHT Choco Leite",
+        "marca": "Choco Leite",
+        "categories": {
+            "0": {
+                "name": "Bebidas"
+            },
+            "1": {
+                "name": "Achocolatado"
+            }
+        },
+        "qtd": "800",
+        "qtdType": "Ml",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "4,99"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "5,00"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "5,50"
+            }
+        }
+    },
+    "1": {
+        "name": "Massa Caseira de Sêmola Rosane Ninho",
+        "marca": "Rosane",
+        "categories": {
+            "0": {
+                "name": "Macarrão"
+            },
+            "1": {
+                "name": "Massa"
+            }
+        },
+        "qtd": "500",
+        "qtdType": "Gr",
+        "shops": {
+            "0": {
+                "name": "Big",
+                "value": "4,30"
+            },
+            "1": {
+                "name": "Cooper",
+                "value": "4,48"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "5,50"
+            }
+        }
+    },
+    "2": {
+        "name": "Queijo Coalho Crioulo Espeto",
+        "marca": "Crioulo",
+        "categories": {
+            "0": {
+                "name": "Queijo"
+            },
+            "1": {
+                "name": "Coalho"
+            }
+        },
+        "qtd": "1",
+        "qtdType": "Kg",
+        "shops": {
+            "0": {
+                "name": "Angeloni",
+                "value": "41,49"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "45,50"
+            },
+            "2": {
+                "name": "Cooper",
+                "value": "42,99"
+            }
+        }
+    },
+    "3": {
+        "name": "Queijo Colonial/Minas Meia Cura Fazenda Velha Inteiro/Meia Lua",
+        "marca": "Fazenda Velha",
+        "categories": {
+            "0": {
+                "name": "Queijo"
+            },
+            "1": {
+                "name": "Meia Cura"
+            }
+        },
+        "qtd": "1",
+        "qtdType": "Un",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "28,90"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "25,30"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "25,50"
+            }
+        }
+    },
+    "4": {
+        "name": "Maionese Arisco Tradicional Pet",
+        "marca": "Arisco",
+        "categories": {
+            "0": {
+                "name": "Maionese"
+            },
+            "1": {
+                "name": "Molhos"
+            }
+        },
+        "qtd": "500",
+        "qtdType": "Gr",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "2,98"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "3,15"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "3,00"
+            }
+        }
+    },
+    "5": {
+        "name": "Pepino Hemmer Rodelas Agridoce",
+        "marca": "Hemmer",
+        "categories": {
+            "0": {
+                "name": "Conserva"
+            },
+            "1": {
+                "name": "Acompanhamento"
+            }
+        },
+        "qtd": "440",
+        "qtdType": "Gr",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "8,99"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "7,50"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "7,89"
+            }
+        }
+    },
+    "6": {
+        "name": "Wafer Marilan",
+        "marca": "Marilan",
+        "categories": {
+            "0": {
+                "name": "Lanche"
+            },
+            "1": {
+                "name": "Doce"
+            }
+        },
+        "qtd": "1",
+        "qtdType": "Un",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "1,59"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "1,30"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "1,60"
+            }
+        }
+    },
+    "7": {
+        "name": "Biscoito Orquídea Leite",
+        "marca": "Orquídea",
+        "categories": {
+            "0": {
+                "name": "Biscoito"
+            },
+            "1": {
+                "name": "Doce"
+            }
+        },
+        "qtd": "400",
+        "qtdType": "Gr",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "3,49"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "3,50"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "3,20"
+            }
+        }
+    },
+    "8": {
+        "name": "Biscoito Recheado Cartoon",
+        "marca": "Cartoon",
+        "categories": {
+            "0": {
+                "name": "Biscoito"
+            },
+            "1": {
+                "name": "Bolacha"
+            }
+        },
+        "qtd": "1",
+        "qtdType": "Un",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "1,59"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "1,59"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "1,60"
+            }
+        }
+    },
+    "9": {
+        "name": "Chocolate Hershey's Mais",
+        "marca": "Hershey's",
+        "categories": {
+            "0": {
+                "name": "Chocolate"
+            },
+            "1": {
+                "name": "Doce"
+            }
+        },
+        "qtd": "102",
+        "qtdType": "Gr",
+        "shops": {
+            "0": {
+                "name": "Cooper",
+                "value": "2,99"
+            },
+            "1": {
+                "name": "Giassi",
+                "value": "2,89"
+            },
+            "2": {
+                "name": "Angeloni",
+                "value": "2,89"
+            }
+        }
+    }
+}

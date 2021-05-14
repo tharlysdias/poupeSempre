@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "151289456044",
+    "firebase_url": "https://poupe-sempre.firebaseio.com",
+    "project_id": "poupe-sempre",
+    "storage_bucket": "poupe-sempre.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151289456044:android:1f40a843391743a6bdc609",
+        "android_client_info": {
+          "package_name": "com.example.poupe_sempre"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151289456044-ml6fv6u55v6j8u86j352iobkf4dj5vfb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.poupe_sempre",
+            "certificate_hash": "6eeac700d2e5b573154e114127714eb350adaf2e"
+          }
+        },
+        {
+          "client_id": "151289456044-ookv05ofld0j2euue17l7molsarv250a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtBWQWIO3KB1CMdP9Zwn9dEUxzNr7ocxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151289456044-ookv05ofld0j2euue17l7molsarv250a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
