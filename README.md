@@ -10,7 +10,7 @@ Feito por:
 
 ToMattBan (Cleyton) - https://github.com/ToMattBan 
 
-Tharlis - https://github.com/tharlysdias 
+Tharlys - https://github.com/tharlysdias 
 
 Pietro - https://github.com/Pietro-Tomelin 
 
